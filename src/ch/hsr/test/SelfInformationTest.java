@@ -1,6 +1,6 @@
 package ch.hsr.test;
 
-import static org.junit.Assert.*;
+/*import static org.junit.Assert.*;
 
 import java.net.SocketException;
 import java.util.ArrayList;
@@ -23,7 +23,7 @@ import ch.hsr.bll.SystemInformation;
  * 
  * @author dzigerli@hsr.ch (Daniel Zigerlig)
  */
-@RunWith(JUnit4.class)
+//@RunWith(JUnit4.class)
 public class SelfInformationTest {
 /*	EnvironmentVariables ev;
 	HardwareInformation hi;
