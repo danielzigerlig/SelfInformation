@@ -7,6 +7,6 @@
 <title>Self Information Welcome Page</title>
 </head>
 <body>
-	<a href="SelfInformation">Self Information</a>
+	<a href="SelfInformationServlet">Self Information</a>
 </body>
 </html>
