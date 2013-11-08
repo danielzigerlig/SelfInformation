@@ -60,7 +60,7 @@ public class SelfInformationServlet extends HttpServlet {
 		out.println("</head>");
 		out.println("<body>");
 		out.println("<div id=\"content\">");
-		out.println("<h1>Self Information</h1>");
+		out.println("<h1>Self Information - AppFog</h1>");
 	}
 
 	protected void printFooter(HttpServletResponse response) throws IOException {
